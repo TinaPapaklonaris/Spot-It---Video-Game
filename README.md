@@ -1,4 +1,5 @@
-# Spot-It-Video-Game
+# Spot-It-Video-Game (Version _6__Spot_It) 
+### Note: Version_6__Spot_It is the final version for this prototype. All other files are previous versions
 An interactive visual search game developed as part of a university coding project informed by experience supporting students with ADHD. It is designed as an educational prototype to support attention-based learning and sustained attention. 
 ## Table of Contents
 - General Information
@@ -41,6 +42,9 @@ The sketch uses built-in Processing functionality and does not import additional
 - Final countdown warning: The timer changes colour during the final 10 seconds.
 - End-of-game results: Players can see their final score and start another round.
 - Clear zoo layout: Distinct enclosures, proportionally sized animals, and visible score, timer, and target panels support visual clarity.
+## Screenshot
+<img width="1192" height="699" alt="Screenshot 2026-11-02 at 12 27 08 am" src="https://github.com/user-attachments/assets/be721a98-bffd-404a-bda6-415cb4fc134f" />
+Screenshot shows the completed Version 6 zoo layout, with six animals, a score box at the top left, a timer at the top right and the target panel near the bottom centre.
 ## Setup
 ### Requirements
 - A desktop computer capable of running the Processing application (version 4.3.1).
