@@ -44,8 +44,11 @@ The sketch uses built-in Processing functionality and does not import additional
 - Clear zoo layout: Distinct enclosures, proportionally sized animals, and visible score, timer, and target panels support visual clarity.
 ## Screenshot
 <img width="1192" height="699" alt="Screenshot 2026-11-02 at 12 27 08 am" src="https://github.com/user-attachments/assets/be721a98-bffd-404a-bda6-415cb4fc134f" />
+
 Screenshot shows the completed Version 6 zoo layout, with six animals, a score box at the top left, a timer at the top right and the target panel near the bottom centre.
+
 ## Setup
+
 ### Requirements
 - A desktop computer capable of running the Processing application (version 4.3.1).
 - Processing in Java mode installed from processing.org/download.
@@ -107,6 +110,7 @@ The Coding Train. (2015, July 25). 10.3: An Array of Images - Processing Tutoria
 W3schools. (n.d). Java If ... Else. https://www.w3schools.com/java/java_conditions.asp
 ## Contact
 Project Creator: Tina Papaklonaris
+
 Project: Spot It, Creative Coding 2026
 
 
